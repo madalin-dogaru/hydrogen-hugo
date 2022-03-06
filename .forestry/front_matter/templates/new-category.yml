@@ -10,3 +10,4 @@ fields:
   label: color
 pages:
 - exampleSite/content/english/categories/coding.md
+- exampleSite/content/english/categories/windows.md
