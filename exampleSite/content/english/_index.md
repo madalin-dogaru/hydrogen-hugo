@@ -1,9 +1,10 @@
 ---
-title: Freddy Carter
-image: images/developer.jpg
-designation: Front-end developer
-description: Meta description
+title: sentientchip
+image: images/founder.jpg
+designation: Cybersecurity Trainings
+description: cybersecurity trainings, security awareness, web exploitation, phishing
+  trainings, red team exercises
 draft: true
 
 ---
-A Full Stack Front-end Developer based in NYC. Meticulous web developer with over 2 years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach. W3C certified. Implemented new responsive website approach which increased mobile traffic by 20%.
+Hello and welcome to Sentientchip! My name is Mădălin Dogaru and I will be your guide through a fascinating journey filled with cybersecurity trainings, in order to find out what a hacker really is. 
