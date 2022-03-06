@@ -1,6 +1,6 @@
 ---
 title: sentientchip
-image: images/founder.jpg
+image: images/founder.png
 designation: Cybersecurity Trainings
 description: cybersecurity trainings, security awareness, web exploitation, phishing
   trainings, red team exercises
