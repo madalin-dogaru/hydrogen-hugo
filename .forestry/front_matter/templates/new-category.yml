@@ -8,3 +8,5 @@ fields:
 - type: text
   name: color
   label: color
+pages:
+- exampleSite/content/english/categories/coding.md
